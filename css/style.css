@@ -1,0 +1,16 @@
+
+.dropdown-menu.show {
+    background-color:wheat;
+    border: 3px solid magenta;
+    border-radius: 5px;
+    color:chocolate;
+}
+.welcome{
+    color: magenta;
+    text-decoration: underline;
+    text-decoration-color:blue;
+    display: inline-block;
+    border-radius: 5px;
+    font-style: italic;
+    padding-bottom:10px;
+}
